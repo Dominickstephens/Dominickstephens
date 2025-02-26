@@ -1,4 +1,4 @@
-## Hi there, I'm Dominick, I am a Finaly Year Software Enginnering Student in ISE and have a big intrest in AI/ML, Computer Vision and building Web Apps 👋
+## Hi there, I'm Dominick, I am a Final Year Software Enginnering Student in ISE and have a big intrest in AI/ML, Computer Vision and building Web Apps 👋
 
 - 🔭 I’m currently working on Stubs - A digital way to capture and Share Live Expereinces 
 - 🌱 I’m currently learning AI/ML and Web App Development
